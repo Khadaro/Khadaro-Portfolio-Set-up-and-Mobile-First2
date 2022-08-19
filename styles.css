@@ -40,13 +40,17 @@ body.active {
   line-height: 52px;
   color: var(--header-color);
   padding: 128px 24px 0;
+  
 }
+
+
 
 .portfolio-description {
   font-size: 16px;
   line-height: 24px;
   color: var(--paragraph-color);
   margin: 12px 24px;
+  border: 1px solid #7f8cff;
 }
 
 .lets-connect {
