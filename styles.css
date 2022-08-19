@@ -40,10 +40,7 @@ body.active {
   line-height: 52px;
   color: var(--header-color);
   padding: 128px 24px 0;
-  
 }
-
-
 
 .portfolio-description {
   font-size: 16px;
